@@ -1,0 +1,27 @@
+{
+  "name": "ecommerce-follow-along",
+  "version": "1.0.0",
+  "description": "This is a mentor-guided project where we build a full-fledged E-commerce application using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The application will include features like user authentication, product management, and order handling.",
+  "main": "backend/server.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon backend/server.js",
+    "run": "node backend/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "js": "^0.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.6",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.9",
+    "path": "^0.12.7"
+  }
+}
