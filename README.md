@@ -138,6 +138,14 @@
 - Create and select address page that will display all the available address and have an option to select one address.
 - Write an backend endpoint that will send all the addresses of the user.
 
+ ### Milestone 25
+- Create a backend endpoint to place an order.
+- Retrieve the user's `_id` using their email.
+- Store each product as a separate order under the same address.
+- Save the order details in MongoDB.
+
+
+
 ### Milestone 24
 - First we will display all the products we are ordering
 - Next we will display the address user selected to deliver
