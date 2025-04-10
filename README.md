@@ -159,14 +159,14 @@
 - using order schema you created earlier you will store order details in mongodb order collection
 
 
-###Milestone 26
+### Milestone 26
 - You need to create an endpoint that will receive the user mail
 - You will get the mail of the user using that you need to retrive the _id of the user
 - Using that _id you need to get all the orders of that user
 - Send all the users orders in the response.
 
 
-###Milestone 27
+### Milestone 27
 - You need to create an my-orders page
 - You will send an get request to my-orders endpoint that we created in previous milestone.
 - We will send user mail in to endpoint to get all the user orders
@@ -175,7 +175,7 @@
 
 
 
-###Milestone 28
+### Milestone 28
 - In my-orders page for every order add cancel order button
 - If the order is already canceled this button should not be displayed
 - You need to create an endpoint that will receive the order-id
@@ -183,7 +183,7 @@
 
 
 
-###Milestone 29
+### Milestone 29
 - Please create an PayPal account first PayPal developer dashboard
 - Once you login you can see an option for an sandbox accounts.
 - Copy the UserID of that account and save it.
